@@ -1,0 +1,55 @@
+FID,CODE,NAME,URBAN,AGRI,FOREST,WATER,OTHERS
+0,DZA,Algeria,1,17,1,0,81
+1,AGO,Angola,0,47,46,0,6
+2,BEN,Benin,1,33,38,2,27
+3,BWA,Botswana,0,45,19,3,34
+4,BFA,Burkina Faso,0,44,20,0,36
+5,BDI,Burundi,0,73,10,8,9
+6,CMR,Cameroon,1,21,40,1,39
+7,CPV,Cape Verde,4,20,22,0,54
+8,CAF,Central African Republic,0,8,36,0,56
+9,TCD,Chad,0,39,4,2,55
+10,COM,Comoros,11,71,20,0,0
+11,COG,Congo-Brazzaville,0,11,65,3,20
+12,CIV,Cote d`Ivoire,1,64,32,1,1
+13,COD,Democratic Republic of Congo,0,11,65,3,20
+14,DJI,Djibouti,1,73,0,0,26
+15,EGY,Egypt,2,4,0,1,93
+16,GNQ,Equatorial Guinea,0,10,56,0,34
+17,ERI,Eritrea,0,65,13,14,8
+18,ETH,Ethiopia,0,33,11,9,46
+19,GAB,Gabon,0,19,86,4,0
+20,GMB,Gambia,4,54,43,10,0
+21,GHA,Ghana,3,66,39,5,0
+22,GIN,Guinea,1,59,26,0,14
+23,GNB,Guinea-Bissau,1,45,55,22,0
+24,KEN,Kenya,1,48,8,2,42
+25,LSO,Lesotho,0,75,2,0,23
+26,LBR,Liberia,0,24,38,14,24
+27,LBY,Libya,1,9,0,0,91
+28,MDG,Madagascar,0,71,21,1,7
+29,MWI,Malawi,2,49,27,20,3
+30,MLI,Mali,0,33,4,2,61
+31,MRT,Mauritania,0,39,0,0,61
+32,MUS,Mauritius,63,42,19,0,0
+33,MAR,Morocco,3,69,13,0,16
+34,MOZ,Mozambique,0,62,47,2,0
+35,NAM,Namibia,0,47,8,0,44
+36,NER,Niger,0,36,1,0,63
+37,NGA,Nigeria,2,77,8,1,13
+38,RWA,Rwanda,69,18,6,0,7
+39,STP,Sao Tome and Principe,7,51,56,0,0
+40,SEN,Senegal,1,45,42,2,10
+41,SYC,Seyechlles,27,3,88,0,0
+42,SLE,Sierra Leone,1,55,42,0,2
+43,SOM,Somalia,0,69,10,2,19
+44,ZAF,South Africa,4,79,8,0,8
+45,SDN,Sudan,0,29,8,0,63
+46,SWZ,Swaziland,5,70,34,1,0
+47,TZA,Tanzania,0,42,49,6,3
+48,TGO,Togo,3,67,3,4,22
+49,TUN,Tunisia,6,62,6,5,21
+50,UGA,Uganda,0,60,9,17,15
+51,ESH,Western Sahara,0,19,3,0,79
+52,ZMB,Zambia,0,32,65,1,2
+53,ZWE,Zimbabwe,0,41,36,1,22
